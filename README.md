@@ -5,4 +5,4 @@ Repositori untuk kelas 3FSD4
 Ini adalah project java aplikasi rumah sakit.
 
 ### Pemilik Project
-Pemilik project adalah Andi
+Pemilik project adalah Riki
